@@ -20,7 +20,7 @@ AI agent engineer in Vaasa, Finland. I build agents that run real workflows in p
 
 ## Systems
 
-- **[odoo18-amazon-connector](https://github.com/kimasplund/odoo18-amazon-connector)** and **[odoo_nexi_pos](https://github.com/kimasplund/odoo_nexi_pos)**: Odoo 18 integrations with Amazon's Selling Partner API and with Nexi card terminals (payments, refunds, HMAC-verified webhooks).
+- **[odoo-amazon-connector](https://github.com/kimasplund/odoo-amazon-connector)** and **[odoo_nexi_pos](https://github.com/kimasplund/odoo_nexi_pos)**: Odoo 18 integrations with Amazon's Selling Partner API and with Nexi card terminals (payments, refunds, HMAC-verified webhooks).
 - **[kimsfinance](https://github.com/kimasplund/kimsfinance)**: fast financial charting for Python, with optional Rust and GPU acceleration.
 - **[rust-p2p-usb](https://github.com/kimasplund/rust-p2p-usb)**: use a USB device plugged into another machine anywhere on the internet, peer to peer over QUIC with Iroh. Alpha.
 - **[gnome-oled-shield](https://github.com/kimasplund/gnome-oled-shield)**, **[Linux-Samsung-Nvme-Firmware-Iso-Extractor](https://github.com/kimasplund/Linux-Samsung-Nvme-Firmware-Iso-Extractor)**, **[Ubuntu_Intel_RST_Install](https://github.com/kimasplund/Ubuntu_Intel_RST_Install)**: Linux tools for OLED burn-in, Samsung SSD firmware updates and installs on Intel RST RAID.
